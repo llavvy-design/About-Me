@@ -165,44 +165,46 @@ and more complex software architecture.
 
 ## 🚚 Reflex Delivery Management System
 
-> A full-stack delivery management platform connecting retailers,
-> dispatchers, and riders through a structured delivery workflow.
+**A full-stack delivery management platform designed around the workflow
+between retailers, dispatchers, and riders.**
 
-**Status:** 🟡 Active — Working system with future improvements planned  
+**Status:** 🟡 Active — working system with room for future improvements
+
 **Role:** Individual Developer
-
-### 🔍 Highlights
-
-- Role-based application workflows
-- Authentication and authorization
-- Delivery management
-- Backend APIs
-- Relational database design
-- Real-time communication
-- Full-stack architecture
-- Testing
-- Business workflow management
-
-### 🧰 Stack
-
-`React` `Vite` `Node.js` `Express` `PostgreSQL` `Socket.IO` `JWT`
-
-### 🔗 Links
-
-**Repository:**  
-https://github.com/llavvy-design/reflex-delivery-management-system
 
 **Live Demo:**  
 https://reflex-delivery-management-system.vercel.app/
 
-<p>
-  <a href="https://github.com/llavvy-design/reflex-delivery-management-system">
-    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Reflex repository">
-  </a>
-  <a href="https://reflex-delivery-management-system.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Reflex live demo">
-  </a>
-</p>
+**Repository:**  
+https://github.com/llavvy-design/reflex-delivery-management-system
+
+### What it explores
+
+- Role-based application workflows
+- Authentication and authorization
+- Delivery lifecycle management
+- Backend APIs
+- Relational database design
+- Real-time communication
+- Full-stack application architecture
+- Testing and application reliability
+
+### Technology
+
+`React` `Vite` `Node.js` `Express` `PostgreSQL` `Socket.IO` `JWT`
+
+### Why it matters
+
+Reflex is one of the projects that best represents my transition from simply
+learning individual technologies toward thinking about **complete software
+systems**.
+
+<a href="https://github.com/llavvy-design/reflex-delivery-management-system">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Reflex repository">
+</a>
+<a href="https://reflex-delivery-management-system.vercel.app/">
+  <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="View Reflex live demo">
+</a>
 
 ---
 
@@ -234,6 +236,12 @@ https://reflex-delivery-management-system.vercel.app/
 ### 🔗 Repository
 
 https://github.com/llavvy-design/northstar-meridian-pivot
+
+### Why it matters
+
+This project represents an important direction in my learning journey:
+understanding not only how applications work, but **how independent services
+and processes communicate, synchronize state, and handle events**.
 
 <p>
   <a href="https://github.com/llavvy-design/northstar-meridian-pivot">
@@ -271,6 +279,12 @@ https://github.com/llavvy-design/northstar-meridian-pivot
 
 https://github.com/llavvy-design/northstar-support-deflection-mvp
 
+### Why it matters
+
+This project gave me experience thinking about software from both a
+**technical and product perspective** — translating user support problems
+into simple digital workflows.
+
 <p>
   <a href="https://github.com/llavvy-design/northstar-support-deflection-mvp">
     <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Northstar Support Deflection repository">
@@ -304,13 +318,19 @@ The intended system explores:
 - 📡 Future hardware / IoT integration
 - 📈 Data-driven collection management
 
+### Why it matters
+
+This project gave me experience thinking about software from both a
+**technical and product perspective** — translating user support problems
+into simple digital workflows.
+
 ### 🧪 Current State
 
 This project is **not presented as a completed smart-waste platform**.
 
 It is an early prototype and exploration of a larger system concept. The
 project represents an area I may continue developing as I learn more about
-IoT, data, intelligent systems, and distributed technologies.
+IoT, data, intelligent systems and distributed technologies.
 
 ### 🧰 Current Technology
 
@@ -421,11 +441,17 @@ My Computer Science studies provide the academic foundation behind my
 exploration of software engineering, systems development, computing
 technologies, databases, and problem-solving.
 
-💡 What I'm Working Toward
+🔭 Where I'm Heading
 
-I'm building toward a career in software engineering, with particular
-interest in full-stack development, backend systems, automation, and
-technology that connects software with real-world problems.
+I'm working toward becoming a strong software engineer with the ability
+to move comfortably between application development, backend systems,
+automation, data and emerging technologies.
+
+Rather than specializing too early, I'm currently building breadth while
+developing deeper expertise through increasingly complex projects.
+
+My long-term goal is to build software that is not only functional, but
+well-structured, useful, maintainable and thoughtfully designed.
 
 As I progress, I'm looking to deepen my understanding of:
 
@@ -465,7 +491,7 @@ Mentorship · Developer Communities
 Technology isn't my only creative outlet.
 
 Outside software development, I enjoy drawing, writing, creative projects,
-fashion, and learning new skills.
+fashion and learning new skills.
 
 That creative side influences the way I approach technology. I enjoy thinking
 about both the technical structure of a system and the experience people have
@@ -488,8 +514,7 @@ collaborators, recruiters, and people interested in technology.
 
 <div align="center"> <a href="https://github.com/llavvy-design"> <img src="https://img.shields.io/badge/GitHub-llavvy--design-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <a href="https://www.linkedin.com/in/lavine-lornah-1a6727365"> <img src="https://img.shields.io/badge/LinkedIn-Lavine%20Lornah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://dev.to/llavvy"> <img src="https://img.shields.io/badge/DEV.to-llavvy-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.to"> </a> <a href="mailto:lornahlavine1@gmail.com"> <img src="https://img.shields.io/badge/Email-lornahlavine1-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> </div>
 <div align="center">
-🚀 Learn. Build. Experiment. Improve.
 
-Building my way into software engineering, one system at a time.
+Learn. Build. Experiment. Improve myself in this technology advanced world!
 
 <br> <img src="https://komarev.com/ghpvc/?username=llavvy-design&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"> </div> ```
