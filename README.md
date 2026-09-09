@@ -424,17 +424,17 @@ That's the approach I'm taking as I grow into software engineering.
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=llavvy-design&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
-  height="180"
-  alt="Lavine's GitHub statistics"
-/>
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=llavvy-design&show_icons=true&hide_border=true"
+    height="180"
+    alt="Lavine's GitHub statistics"
+  />
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=llavvy-design&layout=compact&hide_border=true&langs_count=8"
-  height="180"
-  alt="Lavine's most used programming languages"
-/>
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=llavvy-design&layout=compact&hide_border=true&langs_count=8"
+    height="180"
+    alt="Lavine's most used programming languages"
+  />
 
 </div>
 
