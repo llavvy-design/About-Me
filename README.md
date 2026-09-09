@@ -414,13 +414,16 @@ form reliable, scalable, and useful software systems.**
                          ▼
         🧠 AI • Data • Cloud • Cybersecurity
 
+```
+
 Learn → Build → Experiment → Collaborate → Improve
 
 That's the approach I'm taking as I grow into software engineering.
 
-📊 GitHub Statistics
+# 📊 GitHub Statistics
 <div align="center"> <a href="https://github.com/llavvy-design"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=llavvy-design&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="Lavine's GitHub statistics"> </a> <a href="https://github.com/llavvy-design"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llavvy-design&layout=compact&hide_border=true&langs_count=8" alt="Lavine's most used programming languages"> </a> </div> <br> <div align="center"> <a href="https://github.com/llavvy-design"> <img src="https://streak-stats.demolab.com?user=llavvy-design&hide_border=true" alt="Lavine's GitHub contribution streak"> </a> </div>
-📈 GitHub Activity
+
+# 📈 GitHub Activity
 <div align="center">
 
 </div>
@@ -435,7 +438,7 @@ My Computer Science studies provide the academic foundation behind my
 exploration of software engineering, systems development, computing
 technologies, databases, and problem-solving.
 
-🔭 Where I'm Heading
+# 🔭 Where I'm Heading
 
 I'm working toward becoming a strong software engineer with the ability
 to move comfortably between application development, backend systems,
@@ -462,7 +465,7 @@ My goal is to become a developer who can understand not just how to make
 software work, but why a particular approach makes sense for the problem
 being solved.
 
-💼 Open to Opportunities
+# 💼 Open to Opportunities
 
 I'm interested in opportunities where I can:
 
@@ -480,7 +483,7 @@ I'm particularly interested in:
 Internships · Junior Software Engineering Roles · Collaborative Projects ·
 Mentorship · Developer Communities
 
-✨ Beyond Code
+# ✨ Beyond Code
 
 Technology isn't my only creative outlet.
 
@@ -491,17 +494,19 @@ That creative side influences the way I approach technology. I enjoy thinking
 about both the technical structure of a system and the experience people have
 when interacting with it.
 
-✍🏽 Writing
+## ✍🏽 Writing
 
 I occasionally share technical and developer-related writing on DEV Community.
 
 <a href="https://dev.to/llavvy"> <img src="https://img.shields.io/badge/DEV.to-Follow%20my%20writing-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Lavine's DEV.to profile"> </a>
-🎨 Creative Work
+
+## 🎨 Creative Work
 
 I also share some of my creative interests on Instagram.
 
 <a href="https://www.instagram.com/lavine.lornah/"> <img src="https://img.shields.io/badge/Instagram-@lavine.lornah-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Lavine's Instagram"> </a>
-🤝 Let's Connect
+
+# 🤝 Let's Connect
 
 I'm always open to connecting with developers, students, mentors,
 collaborators, recruiters, and people interested in technology.
