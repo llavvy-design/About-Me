@@ -1,21 +1,10 @@
-<!--
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                         LAVINE LORNAH — GITHUB                              ║
-║                                                                            ║
-║  Computer Science Student • Software Developer • Full-Stack Systems       ║
-║  Builder                                                                  ║
-╚══════════════════════════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
 
-# Hi, I'm Lavine Lornah 👋🏽
+# 👋🏽 Hi, I'm Lavine Lornah
 
 ### Computer Science Student • Software Developer • Full-Stack Systems Builder
 
-I build web applications and software systems while continuously exploring
-backend architecture, automation, real-time technologies, intelligent systems,
-and the engineering practices behind reliable software.
+Building practical software systems while exploring **full-stack development, backend engineering, automation, real-time systems, and intelligent technologies.**
 
 <p>
   <a href="https://github.com/llavvy-design">
@@ -40,52 +29,32 @@ and the engineering practices behind reliable software.
 
 ## 👩🏽‍💻 About Me
 
-I'm a **Computer Science student at the Technical University of Mombasa**
-and an emerging software developer interested in building practical,
-well-structured systems.
+I'm a **Computer Science student at the Technical University of Mombasa** and an emerging software developer who learns by building.
 
-My development journey has taken me from web development and database-driven
-applications into broader areas of backend engineering, real-time systems,
-automation, enterprise technology, and intelligent software.
+My work has taken me from web development and database-driven applications into broader areas of **full-stack development, backend systems, APIs, real-time communication, event-driven architecture, automation, and emerging intelligent technologies**.
 
-I learn primarily by **building** — turning ideas into working prototypes,
-experimenting with architectures, collaborating on projects, and improving
-systems as I understand them more deeply.
+I enjoy turning ideas and real-world problems into working software, experimenting with different approaches, and gradually developing a deeper understanding of how modern systems are designed.
 
-I'm particularly interested in the intersection of:
-
-- 💻 Software Engineering
-- 🌐 Full-Stack Web Development
-- ⚙️ Backend & Systems Development
-- 🔄 Automation & Event-Driven Systems
-- 🧠 AI / Machine Learning
-- ☁️ Cloud Technologies
-- 🔐 Cybersecurity
-- 📊 Data & Intelligent Applications
-
-> **Currently:** completing my Computer Science degree while expanding my
-> software engineering skills through increasingly complex projects.
+I'm currently working toward becoming a well-rounded **software engineer**, with a growing interest in building reliable, useful, and maintainable software.
 
 ---
 
-## 🧭 What I Build
+## 🧩 What I Build
 
 <table>
 <tr>
 <td width="50%">
 
-### 💻 Web Applications
+### 💻 Full-Stack Applications
 
-Building database-driven and full-stack applications with authentication,
-role-based access, APIs, dashboards, and business workflows.
+Web applications that combine frontend interfaces, backend services, APIs, authentication, databases, and business workflows.
 
 </td>
 <td width="50%">
 
-### ⚙️ Systems & Backend
+### ⚙️ Backend & Systems
 
-Exploring APIs, asynchronous processing, real-time communication, webhooks,
-message queues, databases, and backend architecture.
+Exploring APIs, databases, webhooks, asynchronous processing, real-time communication, message queues, and system architecture.
 
 </td>
 </tr>
@@ -95,16 +64,14 @@ message queues, databases, and backend architecture.
 
 ### 🔄 Automation
 
-Interested in turning repetitive business processes into structured,
-automated workflows using software and Microsoft technologies.
+Exploring how software and automation platforms can simplify repetitive workflows and improve business processes.
 
 </td>
 <td width="50%">
 
 ### 🧠 Intelligent Systems
 
-Exploring AI, machine learning, data analysis, and technology that can turn
-real-world data into useful decisions and actions.
+Experimenting with AI, machine learning, data analysis, and technology-driven solutions to real-world problems.
 
 </td>
 </tr>
@@ -112,283 +79,417 @@ real-world data into useful decisions and actions.
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Skills & Technologies
 
-I don't treat every technology I've encountered as an area of expertise.
-My stack is evolving, and I prefer to show that progression honestly.
+My stack is continuously evolving. I distinguish between technologies I actively work with and areas I am still developing.
 
-### 💻 Core Development
+### 💻 Programming & Web
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,js,html,css,sql" alt="PHP JavaScript HTML CSS SQL">
+  <img src="https://skillicons.dev/icons?i=php,js,html,css" alt="PHP JavaScript HTML CSS">
 </p>
+
+**Working with:**  
+`PHP` `JavaScript` `HTML` `CSS` `SQL`
+
+---
 
 ### 🧩 Frameworks & Application Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,react" alt="Laravel Node.js Express React">
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,react" alt="Laravel Node.js React">
 </p>
 
-> React and TypeScript are part of my growing frontend toolkit and are still
-> areas I'm actively developing proficiency in.
+**Experience with:**  
+`Laravel` `Node.js`
 
-### 🗄️ Databases & Data
+**Currently developing proficiency in:**  
+`React` `TypeScript`
+
+---
+
+### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis" alt="MySQL PostgreSQL Redis">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL PostgreSQL">
 </p>
 
-### 🔄 Real-Time & Event-Driven Technologies
+`MySQL` `PostgreSQL`
+
+---
+
+### 🔄 Systems & Real-Time Technologies
 
 <p>
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square" alt="REST APIs">
   <img src="https://img.shields.io/badge/Webhooks-FF6B35?style=flat-square" alt="Webhooks">
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO">
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square" alt="REST APIs">
+  <img src="https://img.shields.io/badge/Real--Time%20Systems-333333?style=flat-square" alt="Real-Time Systems">
 </p>
 
-### ☁️ Microsoft & Business Automation
+`REST APIs` `Webhooks` `RabbitMQ` `Real-Time Communication` `Message Queues`
+
+---
+
+### ⚙️ Microsoft & Business Automation
 
 <p>
   <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=microsoftpowerautomate&logoColor=white" alt="Power Automate">
   <img src="https://img.shields.io/badge/Power%20Apps-742774?style=flat-square&logo=powerapps&logoColor=white" alt="Power Apps">
-  <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft 365">
   <img src="https://img.shields.io/badge/SharePoint-038387?style=flat-square&logo=microsoftsharepoint&logoColor=white" alt="SharePoint">
-  <img src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Outlook">
-  <img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=flat-square&logo=microsoftteams&logoColor=white" alt="Microsoft Teams">
+  <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft 365">
 </p>
+
+`Power Automate` `Power Apps` `Microsoft Forms` `SharePoint` `OneDrive`  
+`Outlook 365` `Excel Online` `Microsoft Teams`
+
+---
 
 ### 🔧 Development Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub VS Code">
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" alt="XAMPP">
-  <img src="https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white" alt="Composer">
 </p>
+
+`Git` `GitHub` `XAMPP` `Composer` `VS Code`
 
 ---
 
 # 🚀 Featured Projects
 
-These projects represent the areas of software development I am currently
-building toward: full-stack applications, product-oriented systems,
-event-driven architecture, and experimental intelligent solutions.
+A selection of projects that represent my progression from web development
+toward full-stack applications, backend systems, collaborative development,
+and more complex software architecture.
 
 ---
 
 ## 🚚 Reflex Delivery Management System
 
-**A full-stack delivery management platform designed around the workflow
-between retailers, dispatchers, and riders.**
+> A full-stack delivery management platform connecting retailers,
+> dispatchers, and riders through a structured delivery workflow.
 
-**Status:** 🟡 Active — working system with room for future improvements
-
+**Status:** 🟡 Active — Working system with future improvements planned  
 **Role:** Individual Developer
 
-**Live Demo:**  
-https://reflex-delivery-management-system.vercel.app/
+### 🔍 Highlights
+
+- Role-based application workflows
+- Authentication and authorization
+- Delivery management
+- Backend APIs
+- Relational database design
+- Real-time communication
+- Full-stack architecture
+- Testing
+- Business workflow management
+
+### 🧰 Stack
+
+`React` `Vite` `Node.js` `Express` `PostgreSQL` `Socket.IO` `JWT`
+
+### 🔗 Links
 
 **Repository:**  
 https://github.com/llavvy-design/reflex-delivery-management-system
 
-### What it explores
+**Live Demo:**  
+https://reflex-delivery-management-system.vercel.app/
 
-- Role-based application workflows
-- Authentication and authorization
-- Delivery lifecycle management
-- Backend APIs
-- Relational database design
-- Real-time communication
-- Full-stack application architecture
-- Testing and application reliability
-
-### Technology
-
-`React` `Vite` `Node.js` `Express` `PostgreSQL` `Socket.IO` `JWT`
-
-### Why it matters
-
-Reflex is one of the projects that best represents my transition from simply
-learning individual technologies toward thinking about **complete software
-systems**.
-
-<a href="https://github.com/llavvy-design/reflex-delivery-management-system">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Reflex repository">
-</a>
-<a href="https://reflex-delivery-management-system.vercel.app/">
-  <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="View Reflex live demo">
-</a>
+<p>
+  <a href="https://github.com/llavvy-design/reflex-delivery-management-system">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Reflex repository">
+  </a>
+  <a href="https://reflex-delivery-management-system.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Reflex live demo">
+  </a>
+</p>
 
 ---
 
 ## ⚡ Northstar Meridian Pivot
 
-**An individual working prototype exploring webhook-driven inventory
-synchronization and event-driven backend processing.**
+> An individual working prototype exploring webhook-driven inventory
+> synchronization and event-driven backend processing.
 
-**Status:** 🟡 Working Prototype
-
+**Status:** 🟡 Working Prototype  
 **Role:** Individual Developer
 
-**Repository:**  
-https://github.com/llavvy-design/northstar-meridian-pivot
-
-### Areas explored
+### 🔍 Areas Explored
 
 - Webhook-based integrations
 - HMAC verification
-- Event-driven workflows
+- Event-driven processing
 - Redis
 - RabbitMQ
-- Asynchronous processing
+- Asynchronous workflows
 - Background workers
 - Backend architecture
-- Moving away from inefficient polling-based approaches
+- Inventory synchronization
+- Alternatives to polling-based systems
 
-### Why it matters
+### 🧰 Technologies
 
-This project represents an important direction in my learning journey:
-understanding not only how applications work, but **how independent services
-and processes communicate, synchronize state, and handle events**.
+`Node.js` `Webhooks` `HMAC` `Redis` `RabbitMQ` `Workers`
 
-<a href="https://github.com/llavvy-design/northstar-meridian-pivot">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Northstar Meridian repository">
-</a>
+### 🔗 Repository
+
+https://github.com/llavvy-design/northstar-meridian-pivot
+
+<p>
+  <a href="https://github.com/llavvy-design/northstar-meridian-pivot">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Northstar Meridian repository">
+  </a>
+</p>
 
 ---
 
 ## 🧭 Northstar Support Deflection MVP
 
-**A collaborative support self-service prototype focused on helping users
-resolve common order-related questions without requiring direct support
-intervention.**
+> A collaborative support self-service prototype designed to help users
+> resolve common order-related questions without direct support intervention.
 
-**Status:** 🟡 Working Prototype
-
+**Status:** 🟡 Working Prototype  
 **Role:** Collaborative Team Developer
 
-**Repository:**  
-https://github.com/llavvy-design/northstar-support-deflection-mvp
-
-### Core areas
+### 🔍 Focus Areas
 
 - Order status
-- Returns & refunds
-- Guided self-service flows
+- Returns and refunds
+- Guided self-service workflows
 - Business rules
 - Simulated datasets
 - Frontend interaction
 - Testing
 - Documentation
-- Collaborative Git development
+- Collaborative development
 
-### Technology
+### 🧰 Stack
 
 `HTML` `CSS` `JavaScript` `JSON`
 
-### Why it matters
+### 🔗 Repository
 
-This project gave me experience thinking about software from both a
-**technical and product perspective** — translating user support problems
-into simple digital workflows.
+https://github.com/llavvy-design/northstar-support-deflection-mvp
 
-<a href="https://github.com/llavvy-design/northstar-support-deflection-mvp">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Support Deflection repository">
-</a>
+<p>
+  <a href="https://github.com/llavvy-design/northstar-support-deflection-mvp">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Northstar Support Deflection repository">
+  </a>
+</p>
 
 ---
 
 ## ♻️ SmartWaste Africa
 
-**An experimental prototype exploring how technology could support smarter
-waste collection and monitoring across Kenya.**
+> An experimental prototype exploring how technology could support smarter
+> waste collection and monitoring across Kenya.
 
-**Status:** 🚧 Experimental / Incomplete Prototype
-
+**Status:** 🚧 Experimental / Incomplete Prototype  
 **Role:** Individual Developer
 
-**Repository:**  
-https://github.com/llavvy-design/SmartWaste-Africa
+### 🌍 The Vision
 
-### Original concept
+The broader concept is a technology-enabled waste management platform capable
+of providing visibility into waste collection infrastructure across Kenya.
 
-The broader vision is to build a technology-enabled waste management platform
-capable of monitoring waste collection infrastructure across Kenya.
+The intended system explores:
 
-The intended system explores concepts such as:
-
-- 🗑️ Smart bin monitoring
+- 🗑️ Smart waste-bin monitoring
 - 📍 Location-aware waste infrastructure
 - 📊 Bin status visibility
 - 👥 Super-admin management
 - 🚛 Dispatcher assignment
 - 🧹 Collector workflows
 - 🗺️ County-level organization
-- 📡 Potential future hardware / IoT integration
-- 📈 Data-driven waste collection
+- 📡 Future hardware / IoT integration
+- 📈 Data-driven collection management
 
-### Current reality
+### 🧪 Current State
 
-The current project should **not** be presented as a completed smart-waste
-platform.
+This project is **not presented as a completed smart-waste platform**.
 
-It is an early prototype and an exploration of the larger system concept.
+It is an early prototype and exploration of a larger system concept. The
+project represents an area I may continue developing as I learn more about
+IoT, data, intelligent systems, and distributed technologies.
 
-That distinction matters to me because I want my portfolio to show not only
-what I have built, but also what I am still learning.
+### 🧰 Current Technology
 
-<a href="https://github.com/llavvy-design/SmartWaste-Africa">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View SmartWaste Africa repository">
-</a>
+`TypeScript`
 
----
+### 🔗 Repository
 
-# 🧠 What I'm Currently Exploring
+https://github.com/llavvy-design/SmartWaste-Africa
 
-My current learning direction is broader than my established stack.
-
-### 🌱 Actively Developing
-
-- Python
-- React
-- TypeScript
-- Cloud technologies
-- Cybersecurity
-- AI / Machine Learning
-- Data analysis
-- Webhooks
-- Real-time synchronization
-- Message queues
-- Event-driven architecture
-
-I'm especially interested in understanding **how these technologies fit
-together to create reliable, scalable and intelligent systems** rather than
-learning them as isolated tools.
+<p>
+  <a href="https://github.com/llavvy-design/SmartWaste-Africa">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="SmartWaste Africa repository">
+  </a>
+</p>
 
 ---
 
-# 🏗️ Development Journey
+# 🤝 Collaborative Development
+
+One of the things I value in software development is learning how to build
+with other people.
+
+My collaborative work has exposed me to:
+
+- Shared GitHub repositories
+- Team-based development
+- Working with existing codebases
+- Feature implementation
+- Testing
+- Documentation
+- Git workflows
+- Translating requirements into working software
+
+The **Northstar Support Deflection MVP** is one example of collaborative
+product development in my portfolio.
+
+---
+
+# 🌱 Currently Exploring
+
+I'm deliberately expanding beyond the technologies I already use.
+
+### 🔬 Areas I'm Learning
+
+- 🐍 Python
+- ⚛️ React
+- 📘 TypeScript
+- ☁️ Cloud Technologies
+- 🔐 Cybersecurity
+- 🧠 AI / Machine Learning
+- 📊 Data Analysis
+- 🔗 Webhooks
+- ⚡ Real-Time Synchronization
+- 📨 Message Queues
+- 🏗️ Event-Driven Architecture
+
+The goal isn't simply to collect technologies.
+
+I'm interested in understanding **how different technologies work together to
+form reliable, scalable, and useful software systems.**
+
+---
+
+# 🧭 My Development Journey
 
 ```text
-Computer Science
-       │
-       ▼
-Web Development
-       │
-       ▼
-Database-Driven Applications
-       │
-       ▼
-Full-Stack Systems
-       │
-       ▼
-Backend & API Development
-       │
-       ▼
-Real-Time / Event-Driven Systems
-       │
-       ▼
-Automation & Enterprise Technology
-       │
-       ▼
-AI • Data • Cloud • Cybersecurity
+                🎓 Computer Science
+                         │
+                         ▼
+                🌐 Web Development
+                         │
+                         ▼
+              🗄️ Database Applications
+                         │
+                         ▼
+               💻 Full-Stack Systems
+                         │
+                         ▼
+                 🔌 APIs & Backend
+                         │
+                         ▼
+          ⚡ Real-Time & Event-Driven Systems
+                         │
+                         ▼
+              ⚙️ Automation & Enterprise
+                         │
+                         ▼
+        🧠 AI • Data • Cloud • Cybersecurity
+
+Learn → Build → Experiment → Collaborate → Improve
+
+That's the approach I'm taking as I grow into software engineering.
+
+📊 GitHub Statistics
+<div align="center"> <a href="https://github.com/llavvy-design"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=llavvy-design&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="Lavine's GitHub statistics"> </a> <a href="https://github.com/llavvy-design"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llavvy-design&layout=compact&hide_border=true&langs_count=8" alt="Lavine's most used programming languages"> </a> </div> <br> <div align="center"> <a href="https://github.com/llavvy-design"> <img src="https://streak-stats.demolab.com?user=llavvy-design&hide_border=true" alt="Lavine's GitHub contribution streak"> </a> </div>
+📈 GitHub Activity
+<div align="center">
+
+</div>
+🎓 Education
+Bachelor of Science in Computer Science
+
+Technical University of Mombasa
+
+2023 — 2027 · Final Year
+
+My Computer Science studies provide the academic foundation behind my
+exploration of software engineering, systems development, computing
+technologies, databases, and problem-solving.
+
+💡 What I'm Working Toward
+
+I'm building toward a career in software engineering, with particular
+interest in full-stack development, backend systems, automation, and
+technology that connects software with real-world problems.
+
+As I progress, I'm looking to deepen my understanding of:
+
+Software architecture
+Clean and maintainable code
+Backend engineering
+Distributed and event-driven systems
+Cloud technologies
+Security
+Data
+Artificial intelligence
+
+My goal is to become a developer who can understand not just how to make
+software work, but why a particular approach makes sense for the problem
+being solved.
+
+💼 Open to Opportunities
+
+I'm interested in opportunities where I can:
+
+Build and ship real software
+Learn from experienced engineers
+Contribute to meaningful products
+Work collaboratively
+Strengthen my software engineering skills
+Explore full-stack and backend development
+Work with modern engineering practices
+Continue growing through challenging projects
+
+I'm particularly interested in:
+
+Internships · Junior Software Engineering Roles · Collaborative Projects ·
+Mentorship · Developer Communities
+
+✨ Beyond Code
+
+Technology isn't my only creative outlet.
+
+Outside software development, I enjoy drawing, writing, creative projects,
+fashion, and learning new skills.
+
+That creative side influences the way I approach technology. I enjoy thinking
+about both the technical structure of a system and the experience people have
+when interacting with it.
+
+✍🏽 Writing
+
+I occasionally share technical and developer-related writing on DEV Community.
+
+<a href="https://dev.to/llavvy"> <img src="https://img.shields.io/badge/DEV.to-Follow%20my%20writing-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Lavine's DEV.to profile"> </a>
+🎨 Creative Work
+
+I also share some of my creative interests on Instagram.
+
+<a href="https://www.instagram.com/lavine.lornah/"> <img src="https://img.shields.io/badge/Instagram-@lavine.lornah-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Lavine's Instagram"> </a>
+🤝 Let's Connect
+
+I'm always open to connecting with developers, students, mentors,
+collaborators, recruiters, and people interested in technology.
+
+<div align="center"> <a href="https://github.com/llavvy-design"> <img src="https://img.shields.io/badge/GitHub-llavvy--design-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <a href="https://www.linkedin.com/in/lavine-lornah-1a6727365"> <img src="https://img.shields.io/badge/LinkedIn-Lavine%20Lornah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://dev.to/llavvy"> <img src="https://img.shields.io/badge/DEV.to-llavvy-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.to"> </a> <a href="mailto:lornahlavine1@gmail.com"> <img src="https://img.shields.io/badge/Email-lornahlavine1-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> </div>
+<div align="center">
+🚀 Learn. Build. Experiment. Improve.
+
+Building my way into software engineering, one system at a time.
+
+<br> <img src="https://komarev.com/ghpvc/?username=llavvy-design&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"> </div> ```
