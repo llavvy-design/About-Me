@@ -504,14 +504,14 @@ being solved.
 
 I'm interested in opportunities where I can:
 
-Build and ship real software
-Learn from experienced engineers
-Contribute to meaningful products
-Work collaboratively
-Strengthen my software engineering skills
-Explore full-stack and backend development
-Work with modern engineering practices
-Continue growing through challenging projects
+- Build and ship real software
+- Learn from experienced engineers
+- Contribute to meaningful products
+- Work collaboratively
+- Strengthen my software engineering skills
+- Explore full-stack and backend development
+- Work with modern engineering practices
+- Continue growing through challenging projects
 
 I'm particularly interested in:
 
@@ -537,9 +537,11 @@ I occasionally share technical and developer-related writing on DEV Community.
 
 ## 🎨 Creative Work
 
-I also share some of my creative interests on Instagram.
+I also share some of my Creative + Tech interests on Instagram.
 
-<a href="https://www.instagram.com/lavine.lornah/"> <img src="https://img.shields.io/badge/Instagram-@lavine.lornah-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Lavine's Instagram"> </a>
+<a href="https://www.instagram.com/lavine.lornah/"> <img src="https://img.shields.io/badge/Instagram-@lavine.lornah-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Lavine's Art Instagram"> </a>
+
+<a href="https://www.instagram.com/tiny.sketches_llavvy/"> <img src="https://img.shields.io/badge/Instagram-@tiny.sketches_llavvy-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Lavine's Tech Instagram"> </a>
 
 # 🤝 Let's Connect
 
@@ -551,4 +553,4 @@ collaborators, recruiters, and people interested in technology.
 
 Learn. Build. Experiment. Improve myself in this technology advanced world!
 
-<br> <img src="https://komarev.com/ghpvc/?username=llavvy-design&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"> </div> ```
+<br> <img src="https://komarev.com/ghpvc/?username=llavvy-design&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"> </div> 
