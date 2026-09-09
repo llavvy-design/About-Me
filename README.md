@@ -421,13 +421,48 @@ Learn → Build → Experiment → Collaborate → Improve
 That's the approach I'm taking as I grow into software engineering.
 
 # 📊 GitHub Statistics
-<div align="center"> <a href="https://github.com/llavvy-design"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=llavvy-design&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="Lavine's GitHub statistics"> </a> <a href="https://github.com/llavvy-design"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llavvy-design&layout=compact&hide_border=true&langs_count=8" alt="Lavine's most used programming languages"> </a> </div> <br> <div align="center"> <a href="https://github.com/llavvy-design"> <img src="https://streak-stats.demolab.com?user=llavvy-design&hide_border=true" alt="Lavine's GitHub contribution streak"> </a> </div>
 
-# 📈 GitHub Activity
 <div align="center">
 
+<img
+  src="https://github-readme-stats.vercel.app/api?username=llavvy-design&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
+  height="180"
+  alt="Lavine's GitHub statistics"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=llavvy-design&layout=compact&hide_border=true&langs_count=8"
+  height="180"
+  alt="Lavine's most used programming languages"
+/>
+
 </div>
-🎓 Education
+
+<br>
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=llavvy-design&hide_border=true"
+  alt="Lavine's GitHub contribution streak"
+/>
+
+</div>
+
+---
+
+# 📈 GitHub Contribution Activity
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=llavvy-design&hide_border=true"
+  alt="Lavine's GitHub contribution activity graph"
+/>
+
+</div>
+
+# 🎓 Education
 Bachelor of Science in Computer Science
 
 Technical University of Mombasa
