@@ -318,12 +318,6 @@ The intended system explores:
 - 📡 Future hardware / IoT integration
 - 📈 Data-driven collection management
 
-### Why it matters
-
-This project gave me experience thinking about software from both a
-**technical and product perspective** — translating user support problems
-into simple digital workflows.
-
 ### 🧪 Current State
 
 This project is **not presented as a completed smart-waste platform**.
